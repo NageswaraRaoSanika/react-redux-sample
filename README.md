@@ -1,3 +1,1 @@
 # react-redux-sample
-
-Change
